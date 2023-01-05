@@ -1,10 +1,10 @@
-package com.addressbook.simpleAddressBook;
+package com.leeshuyun.day13workshop;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimpleAddressBookApplicationTests {
+class Day13workshopApplicationTests {
 
 	@Test
 	void contextLoads() {

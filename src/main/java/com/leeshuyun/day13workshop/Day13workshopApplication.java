@@ -1,13 +1,13 @@
-package com.addressbook.simpleAddressBook;
+package com.leeshuyun.day13workshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SimpleAddressBookApplication {
+public class Day13workshopApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpleAddressBookApplication.class, args);
+		SpringApplication.run(Day13workshopApplication.class, args);
 	}
 
 }
